@@ -6,13 +6,6 @@ width="100"
     hspace="10" vspace="10">
 
 This is simple Splash Screen App | The Splash screen is used for basically two things. Number one usage of splash screen is to welcome our app users to into the app with a nice UI and the second critical usage is to make sure your app loads all the basic information while the Splash screen is being displayed to the user.
-
-<a href="https://play.google.com/store/apps/details?id=arun.com.chromer">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
-<img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
 <br>
 
 ## Implementation
@@ -38,7 +31,8 @@ new Handler().postDelayed(new Runnable() {
         }, SPLASH_TIME);
 ```
 
-<br>You canb also watch the complete tutorial video from my very on YouTube channel here:<br>
+## Video Tutorial
+<br>You can also watch the complete tutorial video from my very on YouTube channel here:<br>
 [![Click to watch tutorial video](https://img.youtube.com/vi/jXtof6OUtcE/0.jpg)](https://www.youtube.com/watch?v=jXtof6OUtcE)
 <br><br>
 <h4>Hey, while you're here why don't you think of following me for awesome projects like this, ah? <a href="https://github.com/SabithPkcMnr">Follow Me on my Profile!</a></h4>
