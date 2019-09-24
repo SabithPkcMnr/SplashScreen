@@ -15,7 +15,8 @@ This is simple Splash Screen App | The Splash screen is used for basically two t
 <img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
 <br>
 
-## Implementation - Now the timer is based on postDelayed() public method. This method will help us to queue a process to a certain period of time that we set for the method and app will perform that task after that time period.
+## Implementation
+Now the timer is based on postDelayed() public method. This method will help us to queue a process to a certain period of time that we set for the method and app will perform that task after that time period.
 
 First we set the time for the timer using a very simple `int SPLASH_TIME` variable
 ```groovy
