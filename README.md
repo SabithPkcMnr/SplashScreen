@@ -1,6 +1,7 @@
+# Splash Screen
 **Android browser app based on Custom Tabs protocol.**
 
-<img src="android-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" align="left"
+<img src="app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" align="left"
 width="200"
     hspace="10" vspace="10">
 
