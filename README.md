@@ -12,8 +12,6 @@ This is simple Splash Screen App | The Splash screen is used for basically two t
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
-
-This is simple Splash Screen App | The Splash screen is used for basically two things. Number one usage of splash screen is to welcome our app users to into the app with a nice UI and the second critical usage is to make sure your app loads all the basic information while the Splash screen is being displayed to the user.<a href="https://github.com/SabithPkcMnr/SplashScreen/blob/master/app/src/main/java/com/sabithpkcmnr/splashscreen/ActivitySplash.java">here</a>
 <img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
 <br>
 
