@@ -2,13 +2,10 @@
 **Android browser app based on Custom Tabs protocol.**
 
 <img src="app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" align="left"
-width="200"
+width="100"
     hspace="10" vspace="10">
 
-Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.
-
-Lynket is available for free on the Google Play Store.
-
+This is simple Splash Screen App | The Splash screen is used for basically two things. Number one usage of splash screen is to welcome our app users to into the app with a nice UI and the second critical usage is to make sure your app loads all the basic information while the Splash screen is being displayed to the user.
 
 <a href="https://play.google.com/store/apps/details?id=arun.com.chromer">
     <img alt="Get it on Google Play"
