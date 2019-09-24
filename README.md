@@ -6,7 +6,7 @@ This is simple Splash Screen App | The Splash screen is used for basically two t
 ## Implementation
 Now the timer is based on postDelayed() public method. This method will help us to queue a process to a certain period of time that we set for the method and app will perform that task after that time period.
 
-First we set the time for the timer using a very simple 'int SPLASH_TIME' variable
+First we set the time for the timer using a very simple `int SPLASH_TIME` variable
 ```groovy
 int SPLASH_TIME = 3000; //This is 3 seconds
 ```
