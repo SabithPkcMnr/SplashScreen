@@ -1,5 +1,5 @@
 # Splash Screen
-**Android browser app based on Custom Tabs protocol.**
+**Smooth Splash Screen App with Animated Contents.**
 
 <img src="app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" align="left"
 width="100"
