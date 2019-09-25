@@ -30,7 +30,8 @@ new Handler().postDelayed(new Runnable() {
             }
         }, SPLASH_TIME);
 ```
-<br>
+
+
 ## Video Tutorial
 You can also watch the complete tutorial video from my very on YouTube channel here:<br>
 [![Click to watch tutorial video](https://img.youtube.com/vi/jXtof6OUtcE/0.jpg)](https://www.youtube.com/watch?v=jXtof6OUtcE)
