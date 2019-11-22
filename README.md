@@ -44,4 +44,4 @@ You can also watch the complete tutorial video from my very on YouTube channel h
 <br>
 Now grab a cup of hot or cold coffee☕ and let's get started. Feel free to give a star, fork and play around the ads.
 
-This app make it easy for you to implement Facebook ads very easily into your Android App and it is very similar to how we used to  implement the [Google AdMob Ads](https://developers.google.com/admob/android/quick-start/ "Yoo my boi click to open this page").
+This app make it easy for you to implement Splash screen very easily into your Android App. You can also take a look at how we used to  implement the [Facebook Mobile Ads](https://github.com/SabithPkcMnr/FacebookAds/ "Yoo my boi click to open this page").
