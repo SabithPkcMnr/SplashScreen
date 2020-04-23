@@ -13,6 +13,7 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
+            android:label="Splash Page"
             android:theme="@style/SplashTheme"
             android:name=".ActivitySplash">
             <intent-filter>
@@ -22,7 +23,7 @@
         </activity>
 
         <activity
-            android:label="Home"
+            android:label="Home Page"
             android:name=".ActivityHome"/>
 
     </application>
