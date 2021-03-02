@@ -29,7 +29,7 @@
             android:textStyle="bold" />
 
         <Button
-            style="@style/Widget.AppCompat.Button.Colored"
+            style="@style/Widget.MaterialComponents.Button"
             android:layout_width="200dp"
             android:id="@+id/bt_click_me"
             android:layout_marginTop="10dp"

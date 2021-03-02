@@ -9,13 +9,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
+        android:theme="@style/ThemeApp"
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
+            android:name=".ActivitySplash"
             android:label="Splash Page"
-            android:theme="@style/SplashTheme"
-            android:name=".ActivitySplash">
+            android:theme="@style/ThemeSplash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -23,8 +23,8 @@
         </activity>
 
         <activity
-            android:label="Home Page"
-            android:name=".ActivityHome"/>
+            android:name=".ActivityHome"
+            android:label="Home Page" />
 
     </application>
 
