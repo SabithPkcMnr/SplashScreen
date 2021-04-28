@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 public class ActivityHome extends AppCompatActivity {
 
-    Button bt_click_me;
+    Button btClickMe;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,8 +16,8 @@ public class ActivityHome extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
         //Add all your codes here
-        bt_click_me = findViewById(R.id.bt_click_me);
-        bt_click_me.setOnClickListener(new View.OnClickListener() {
+        btClickMe = findViewById(R.id.btClickMe);
+        btClickMe.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(ActivityHome.this, "You clicked me. Thank you!", Toast.LENGTH_SHORT).show();

@@ -22,7 +22,7 @@ public class ActivitySplash extends AppCompatActivity {
         playProgress();
 
         //Code to start timer and take action after the timer ends
-        new Handler().postDelayed(new Runnable() {
+        new Handler(getMainLooper()).postDelayed(new Runnable() {
             @Override
             public void run() {
                 //Do any action here. Now we are moving to next page
